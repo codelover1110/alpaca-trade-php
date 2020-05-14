@@ -1,0 +1,15 @@
+{
+    "name": "wilson/alpaca-trade-api-php",
+    "description": "PHP SDK for the Alpaca trade API",
+    "type": "project",
+    "require": {
+        "php": ">=7.2.5",
+        "guzzlehttp/guzzle": "~6.0",
+        "nesbot/carbon": "^2.14",
+        "amphp/websocket-client": "^0.2.4",
+        "tmarois/polygon-php-sdk": "1.0",
+        "tmarois/alpaca-php-sdk": "1.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
